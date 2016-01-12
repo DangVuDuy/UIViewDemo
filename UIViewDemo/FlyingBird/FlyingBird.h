@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FlyingBird.h
 //  UIViewDemo
 //
 //  Created by Dang Vu Duy on 12/30/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FlyingBird : UIViewController
 
 @end
-
